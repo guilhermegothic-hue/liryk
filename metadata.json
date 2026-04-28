@@ -1,0 +1,14 @@
+{
+  "name": "LyricFlow AI",
+  "description": "Transform lyrics into immersive interactive music videos using AI. Automatic emotion analysis, scene generation, and beat-reactive visuals.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered lyrics analysis",
+    "Automated scene generation",
+    "Beat-reactive visual effects",
+    "Karaoke-style synchronization",
+    "MP4 Video Export"
+  ]
+}
